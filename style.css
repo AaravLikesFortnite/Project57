@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: linear-gradient(#76d7f5 0%, #73f075 100%);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    color: cyan;
+}
+
+#image {
+    width: 150px;
+    height: 150px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Amatic SC', cursive;
+    color: cyan
+}
+
+#line {
+    height: 10px;
+    background-color: black;
+    width: 70px;
+    z-index: 10px;
+    font-size: 10px
+}
+#my favorite{
+z-index:9;
+overflow: hidden;
+}
